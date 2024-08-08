@@ -1,0 +1,6 @@
+
+John: "Move Left and Move Right" [wait]moveCharDemo(left), moveCharDemo(right)
+Elen: "Dialogue Goes Here" playSong("y2331") 
+John: "Let's play some music!" playSong("y2331")
+Elen: "You have odd taste in music." setBackground("4")
+
